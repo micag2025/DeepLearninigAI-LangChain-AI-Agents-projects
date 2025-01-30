@@ -19,6 +19,7 @@ Welcome to the AI-Agents repository! This repository contains  a collection of p
     destinations
   - Ready-to-Run Notebooks: Test and modify pre-configured Jupyter notebooks.
   - Additional Resources: Links to documentation, model hubs, and supplementary learning materials.
+  - LangChain's LangGraph extension helps developers build controllable agents. This course covers creating an agent with Python and an LLM, using LangGraph to enhance it, and implementing agentic search, persistence, and human-in-the-loop systems. It also teaches how to develop agents for tasks like essay writing.
  
 ## Contributions  
 Contributions are welcome! Feel free to submit pull requests to improve or extend the codebase.
