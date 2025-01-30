@@ -15,11 +15,11 @@ Welcome to the AI-Agents repository! This repository contains  a collection of p
 
 ## ❓ What's Inside
   - Customized Code Examples: Original examples from the courses have been reviewed, refined, and personalized for improved clarity and usability.
-  - (Apply your skills to) Examples of real-world projects, using Python and AI, such as customizing recipes based on preferences and making data-driven decisions, or planning a dream vacation with detailed itineraries for multiple  
-    destinations
+  - Apply your skills creating an agent with Python and an LLM, using LangGraph to enhance it, and implementing agentic search, persistence, and human-in-the-loop systems. 
+    You will have also the opportunity to see how to develop agents for tasks like essay writing.
   - Ready-to-Run Notebooks: Test and modify pre-configured Jupyter notebooks.
   - Additional Resources: Links to documentation, model hubs, and supplementary learning materials.
-  - LangChain's LangGraph extension helps developers build controllable agents. This course covers creating an agent with Python and an LLM, using LangGraph to enhance it, and implementing agentic search, persistence, and human-in-the-loop systems. It also teaches how to develop agents for tasks like essay writing.
+
  
 ## Contributions  
 Contributions are welcome! Feel free to submit pull requests to improve or extend the codebase.
