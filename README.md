@@ -1,16 +1,11 @@
 # DeepLearninigAI-AI-Agents-projects
 ![logo1](https://github.com/user-attachments/assets/35f315f5-15fb-4236-9f1d-9ee2554b7d56)  
 
-Welcome to the AI-Agents repository! This repository contains  a collection of personalized  and reviewed code examples derived by the short course offered on the [DeepLearning.AI platform](https://www.deeplearning.ai/) in collaboration with [LangChain](https://www.langchain.com/):
+Welcome to the AI-Agents repository! This repository contains  a collection of personalized  and reviewed code examples derived by short course offered on the [DeepLearning.AI platform](https://www.deeplearning.ai/) in collaboration with [LangChain](https://www.langchain.com/):
 
-## AI Agents in LangGraph 🤝
+## AI Agents in LangGraph 🤝  
 
-   - Build an Agent from Scratch 🤖
-   - LangGraph Components 📚
-   - Agentic Search Tools  🔍
-   - Persistence and Streaming 🌐
-   - Human in the Loop 👩‍💻
-   - Essay Writer ✍️
+## Functions, Tools, and Agents with Langchain 
 
 
 ## ❓ What's Inside
