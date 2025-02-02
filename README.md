@@ -1,5 +1,7 @@
 # DeepLearninigAI-AI-Agents-projects
-![logo1](https://github.com/user-attachments/assets/35f315f5-15fb-4236-9f1d-9ee2554b7d56)  
+![logo1](https://github.com/user-attachments/assets/35f315f5-15fb-4236-9f1d-9ee2554b7d56) 
+![logo2](https://github.com/micag2025/DeepLearninigAI-AI-Agents-projects/blob/ff343c3b368e5115f0784689111c28d21a356e1b/logo2.jpg)
+
 
 Welcome to the AI-Agents repository! This repository contains  a collection of personalized  and reviewed code examples derived by short course offered on the [DeepLearning.AI platform](https://www.deeplearning.ai/) in collaboration with [LangChain](https://www.langchain.com/):
 
