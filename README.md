@@ -7,7 +7,7 @@ Welcome to the AI-Agents repository! This repository contains  a collection of p
 
 ## AI Agents in LangGraph 🤝  
 
-## Functions, Tools, and Agents with Langchain 
+## Functions, Tools, and Agents with Langchain ✅ 
 
 
 ## ❓ What's Inside
