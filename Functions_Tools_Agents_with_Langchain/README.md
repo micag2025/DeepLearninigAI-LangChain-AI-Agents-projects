@@ -1,4 +1,4 @@
-![logo1](https://github.com/user-attachments/assets/35f315f5-15fb-4236-9f1d-9ee2554b7d56)  
+![logo1](https://github.com/micag2025/DeepLearninigAI-AI-Agents-projects/blob/64164356759366beb349d8535be1a292f21e9b1d/Functions_Tools_Agents_with_Langchain/image2.jpg)  
 
 ## Functions, Tools, and Agents with Langchain 
 - OPENAI Function Calling  ✅ 
