@@ -3,6 +3,6 @@
 - Models, Prompts, and parsars ✅ 
 - Memory 🧠
 - Chains 🔗
-- Quesion and Answer ❓ 
+- Question and Answer ❓ 
 - Evaluation 📊
 - Agents 🤖
