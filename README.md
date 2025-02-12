@@ -9,13 +9,13 @@ Welcome to the AI-Agents repository! This repository contains  a collection of p
 
 ## Functions, Tools, and Agents with Langchain ✅ 
 
-## LangChain for LLM Application Development
+## LangChain for LLM Application Development 🚀
 
 
 ## ❓ What's Inside
   - Customized Code Examples: Original examples from the courses have been reviewed, refined, and personalized for improved clarity and usability.
   - Apply your skills creating an agent with Python and an LLM, using LangGraph to enhance it, and implementing agentic search, persistence, and human-in-the-loop systems. 
-    You will have also the opportunity to see how to develop agents for tasks like essay writing.
+    You will have also the opportunity to see how to develop agents for tasks like essay writing, conversational agents, etc.
   - Ready-to-Run Notebooks: Test and modify pre-configured Jupyter notebooks.
   - Additional Resources: Links to documentation, model hubs, and supplementary learning materials.
 
