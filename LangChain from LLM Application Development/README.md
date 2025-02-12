@@ -1,5 +1,5 @@
 
-## LangChain for LLM Application Development 
+## LangChain for LLM Application Development 🚀
 - Models, Prompts, and parsars ✅ 
 - Memory 🧠
 - Chains 🔗
