@@ -5,11 +5,11 @@
 
 Welcome to the AI-Agents repository! This repository contains  a collection of personalized  and reviewed code examples derived by short course offered on the [DeepLearning.AI platform](https://www.deeplearning.ai/) in collaboration with [LangChain](https://www.langchain.com/):
 
-## AI Agents in LangGraph 🤝  
+### AI Agents in LangGraph 🤝  
 
-## Functions, Tools, and Agents with Langchain ✅ 
+### Functions, Tools, and Agents with Langchain ✅ 
 
-## LangChain for LLM Application Development 🚀
+### LangChain for LLM Application Development 🚀
 
 
 ## ❓ What's Inside
