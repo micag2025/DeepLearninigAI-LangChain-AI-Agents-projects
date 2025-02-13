@@ -4,7 +4,7 @@
 
 ## AI Agents in LangGraph 🤝
 
-Buld agentic AI workflows using LangChain's LangGraph and Tavily's agentic search. 
+Build agentic AI workflows using LangChain's LangGraph and Tavily's agentic search. 
 
    - Build an Agent from Scratch 🤖
    - LangGraph Components 📚
