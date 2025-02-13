@@ -3,7 +3,7 @@
 ![logo3](https://github.com/micag2025/DeepLearninigAI-AI-Agents-projects/blob/b8abb492b14e995a62b2be21b1b5918f6352d9ee/image1.jpeg))
 
 
-Welcome to the AI-Agents repository! This repository contains  a collection of personalized  and reviewed code examples derived by short course offered on the [DeepLearning.AI platform](https://www.deeplearning.ai/) in collaboration with [LangChain](https://www.langchain.com/):
+Welcome to the AI-Agents repository! This repository contains  a collection of personalized  and reviewed code examples derived by three short courses offered on the [DeepLearning.AI platform](https://www.deeplearning.ai/) in collaboration with [LangChain](https://www.langchain.com/):
 
 ### AI Agents in LangGraph 🤝  
 
