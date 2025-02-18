@@ -22,6 +22,7 @@ Use the powerful and extensible LangChain framework, using prompts, parsing, mem
     You will have also the opportunity to see how to develop agents for tasks like essay writing, conversational agents, etc.
   - Ready-to-Run Notebooks: Test and modify pre-configured Jupyter notebooks.
   - Additional Resources: Links to documentation, model hubs, and supplementary learning materials.
+  - See also the [apps Gradio](https://huggingface.co/collections/dlaima/ai-agents-in-langgraph-67a5cdb162e3f560e9d33b65) that you cab build up using Langchain. 
 
  
 ## Contributions  
