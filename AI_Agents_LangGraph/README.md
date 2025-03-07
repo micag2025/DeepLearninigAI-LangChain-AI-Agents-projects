@@ -10,5 +10,4 @@ Build agentic AI workflows using LangChain's LangGraph and Tavily's agentic sear
    - LangGraph Components 📚
    - Agentic Search Tools  🔍
    - Persistence and Streaming 🌐
-   - Human in the Loop 👩‍💻
    - Essay Writer ✍️
