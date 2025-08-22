@@ -4,9 +4,15 @@
 
 Use the powerful and extensible LangChain framework, using prompts, parsing, memory,chains, question answering and agents. 
 
-- Models, Prompts, and parsars ✅ 
-- Memory 🧠
-- Chains 🔗
-- Question and Answer ❓ 
-- Evaluation 📊
-- Agents 🤖
+- ✅ [Models, Prompts, and parsars](https://github.com/micag2025/DeepLearninigAI-LangChain-AI-Agents-projects/blob/main/LangChain%20from%20LLM%20Application%20Development/model_prompt_parser.ipynb)
+  
+- 🧠 [Memory](https://github.com/micag2025/DeepLearninigAI-LangChain-AI-Agents-projects/blob/main/LangChain%20from%20LLM%20Application%20Development/memory.ipynb)
+   
+- 🔗 [Chains](https://github.com/micag2025/DeepLearninigAI-LangChain-AI-Agents-projects/tree/main/LangChain%20from%20LLM%20Application%20Development/Chains)
+   
+- ❓ [Question and Answer](https://github.com/micag2025/DeepLearninigAI-LangChain-AI-Agents-projects/tree/main/LangChain%20from%20LLM%20Application%20Development/Question_and_Answer)
+   
+- 📊 [Evaluation](https://github.com/micag2025/DeepLearninigAI-LangChain-AI-Agents-projects/tree/main/LangChain%20from%20LLM%20Application%20Development/Evaluation)
+   
+- 🤖 [Agents](https://github.com/micag2025/DeepLearninigAI-LangChain-AI-Agents-projects/tree/main/LangChain%20from%20LLM%20Application%20Development/Agents)  
+
