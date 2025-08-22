@@ -6,8 +6,13 @@
 
 Build agentic AI workflows using LangChain's LangGraph and Tavily's agentic search. 
 
-   - Build an Agent from Scratch 🤖
-   - LangGraph Components 📚
-   - Agentic Search Tools  🔍
-   - Persistence and Streaming 🌐
-   - Essay Writer ✍️
+   -  🤖 [Build an Agent from Scratch](https://github.com/micag2025/DeepLearninigAI-LangChain-AI-Agents-projects/tree/main/AI_Agents_LangGraph/Build_an_Agent_from_Scratch)
+     
+   - 📚 [LangGraph Components](https://github.com/micag2025/DeepLearninigAI-LangChain-AI-Agents-projects/tree/main/AI_Agents_LangGraph/Lang_Graph_Components)
+     
+   - 🔍 [Agentic Search Tools](https://github.com/micag2025/DeepLearninigAI-LangChain-AI-Agents-projects/tree/main/AI_Agents_LangGraph/Agentic_Search_Tools)
+       
+   - 🌐 [Persistence and Streaming](https://github.com/micag2025/DeepLearninigAI-LangChain-AI-Agents-projects/tree/main/AI_Agents_LangGraph/Persistence_and_Streaming)
+     
+   - ✍️ [Essay Writer](https://github.com/micag2025/DeepLearninigAI-LangChain-AI-Agents-projects/tree/main/AI_Agents_LangGraph/Essay-Writer)  
+
