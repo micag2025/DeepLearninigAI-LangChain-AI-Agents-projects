@@ -5,13 +5,13 @@
 
 Welcome to the AI-Agents repository! This repository contains  a collection of personalized  and reviewed code examples derived by three short courses offered on the [DeepLearning.AI platform](https://www.deeplearning.ai/) in collaboration with [LangChain](https://www.langchain.com/):
 
-### AI Agents in LangGraph 🤝  
+### 🤝 [AI Agents in LangGraph](https://github.com/micag2025/DeepLearninigAI-LangChain-AI-Agents-projects/tree/main/AI_Agents_LangGraph)  
 Build agentic AI workflows using LangChain's LangGraph and Tavily's agentic search.
 
-### Functions, Tools, and Agents with Langchain ✅ 
+###  ✅ [Functions, Tools, and Agents with Langchain](https://github.com/micag2025/DeepLearninigAI-LangChain-AI-Agents-projects/tree/main/Functions_Tools_Agents_with_Langchain)
 Learn about the latest advancements in LLM APIs and use LangChain Expression Language (LCEL) to compose and customize chains and agents.
 
-### LangChain for LLM Application Development 🚀  
+### 🚀 [LangChain for LLM Application Development](https://github.com/micag2025/DeepLearninigAI-LangChain-AI-Agents-projects/tree/main/LangChain%20from%20LLM%20Application%20Development)  
 Use the powerful and extensible LangChain framework, using prompts, parsing, memory, chains, question answering and agents.
 
 
