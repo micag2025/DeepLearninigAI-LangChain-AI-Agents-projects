@@ -26,7 +26,7 @@ Use the powerful and extensible LangChain framework, using prompts, parsing, mem
 
  
 ## Contributions  
-Contributions are welcome! Feel free to submit pull requests to improve or extend the codebase.
+Contributions are welcome! Feel free to submit [pull requests](https://github.com/micag2025/DeepLearninigAI-LangChain-AI-Agents-projects/pulls) to improve or extend the codebase.
 
 ## License  
 This repository is licensed under the [MIT License](https://opensource.org/license/MIT).
